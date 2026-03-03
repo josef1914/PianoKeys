@@ -826,7 +826,10 @@ def main():
                 selected_key = st.selectbox("选择调式", key_options, 
                                             index=key_options.index(st.session_state.key),
                                             label_visibility="collapsed")
-                st.session_state.key = selected_key
+                # 如果调式改变，更新并刷新
+                if selected_key != st.session_state.key:
+                    st.session_state.key = selected_key
+                    st.rerun()
             
             svg_html = draw_piano_svg(st.session_state.key, st.session_state.hand, is_mobile=False)
             components.html(svg_html, height=320, scrolling=False)
