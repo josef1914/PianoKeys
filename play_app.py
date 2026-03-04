@@ -788,12 +788,12 @@ def main():
             <tr><td>D</td><td>12312345</td><td>54354321</td></tr>
             <tr><td>A</td><td>12312345</td><td>54354321</td></tr>
             <tr><td>E</td><td>12312345</td><td>54354321</td></tr>
-            <tr><td>B</td><td>12312345</td><td>54354321</td></tr>
             <tr><td class="group-header" colspan="3">黑键起步组（拇指不弹黑键）</td></tr>
             <tr><td>Bb</td><td>21231234</td><td>45435432</td></tr>
             <tr><td>Eb</td><td>31234123</td><td>35432543</td></tr>
             <tr><td>Ab</td><td>34123123</td><td>32543543</td></tr>
-            <tr><td class="group-header" colspan="3">特殊组（长手指弹黑键）</td></tr>
+            <tr><td class="group-header" colspan="3">特殊组（长手指弹黑键，B大调注意穿指）</td></tr>
+            <tr><td>B</td><td>12312345</td><td>54354321</td></tr>
             <tr><td>Gb</td><td>23412312</td><td>43254354</td></tr>
             <tr><td>Db</td><td>23123412</td><td>43543254</td></tr>
             <tr><td class="group-header" colspan="3">F大调例外（第4指后穿拇指）</td></tr>
@@ -863,12 +863,12 @@ def main():
             <tr><td>D</td><td>1-2-3-1-2-3-4-5</td><td>5-4-3-5-4-3-2-1</td></tr>
             <tr><td>A</td><td>1-2-3-1-2-3-4-5</td><td>5-4-3-5-4-3-2-1</td></tr>
             <tr><td>E</td><td>1-2-3-1-2-3-4-5</td><td>5-4-3-5-4-3-2-1</td></tr>
-            <tr><td>B</td><td>1-2-3-1-2-3-4-5</td><td>5-4-3-5-4-3-2-1</td></tr>
             <tr><td class="group-header" colspan="3">黑键起步组（拇指不弹黑键）</td></tr>
             <tr><td>Bb</td><td>2-1-2-3-1-2-3-4</td><td>4-5-4-3-5-4-3-2</td></tr>
             <tr><td>Eb</td><td>3-1-2-3-4-1-2-3</td><td>3-5-4-3-2-5-4-3</td></tr>
             <tr><td>Ab</td><td>3-4-1-2-3-1-2-3</td><td>3-2-5-4-3-5-4-3</td></tr>
-            <tr><td class="group-header" colspan="3">特殊组（长手指弹黑键）</td></tr>
+            <tr><td class="group-header" colspan="3">特殊组（长手指弹黑键，B大调注意穿指）</td></tr>
+            <tr><td>B</td><td>1-2-3-1-2-3-4-5</td><td>5-4-3-5-4-3-2-1</td></tr>
             <tr><td>Gb</td><td>2-3-4-1-2-3-1-2</td><td>4-3-2-5-4-3-5-4</td></tr>
             <tr><td>Db</td><td>2-3-1-2-3-4-1-2</td><td>4-3-5-4-3-2-5-4</td></tr>
             <tr><td class="group-header" colspan="3">F大调例外（第4指后穿拇指）</td></tr>
